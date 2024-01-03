@@ -6,8 +6,8 @@
 <br>
 
 
-+ Алфавит: ${S, \&, \bigvee, $\bar{}, \to, (.), \Delta}$
-+ Высказывания: $S_n\equiv(S \Delta...\Delta), \Delta form \space n$
++ Алфавит: ${S,\\&, \bigvee, \neg, \to, (.), \Delta}$
++ Высказывания: $S_n\equiv(S \underbrace{\Delta...\Delta}_{n})$
 + Формулы: 
     1. высказывания являются формулами
     2. если $\Phi, \Psi$ - формулы то слова $(\Phi \bigvee \Psi), (\Phi \&  \Psi), (\Phi \to \Psi), \bar{\Phi}$ являются формулами, где $ \& , \bigvee, \to, \bar{}$ - логические связки, семантика которых будет определена далее 
